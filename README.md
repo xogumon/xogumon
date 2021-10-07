@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá mundo! 👋
 
-<!--
-**RXogum/RXogum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Valdir Ronis, mas pode me chamar de Xogum ou Ronis, tenho 34 anos e sou natural de Fortaleza, no Ceará.
 
-Here are some ideas to get you started:
+Atualmente moro em São José do Rio Preto, interior de São Paulo, onde trabalho como desenvolvedor full stack freelancer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Minha vida na programação começou ainda no final dos anos 90, criando pequenos sites em PHP.
+
+Hoje em dia sou mais entusiasta do JavaScript, e suas milhares de frameworks disponiveis na rede, como React, por exemplo.
+
+---
+
+[![wakatime](https://wakatime.com/badge/user/d91b665e-c663-47e8-8ec6-53cdbc729a68.svg)](https://wakatime.com/@xogum)
