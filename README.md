@@ -16,4 +16,4 @@ Today I'm more excited about JavaScript and its thousands of frameworks availabl
 
 [![wakatime](https://wakatime.com/badge/user/d91b665e-c663-47e8-8ec6-53cdbc729a68.svg)](https://wakatime.com/@xogum)
 [![twitter](https://img.shields.io/twitter/follow/xoguuuum?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/xoguuuum)
-[![github](https://img.shields.io/github/followers/xoguuuum?logo=github&style=plastic)](https://github.com/xoguuuum?tab=followers)
+[![github](https://img.shields.io/github/followers/xoguu?logo=github&style=plastic)](https://github.com/xoguuuum?tab=followers)
